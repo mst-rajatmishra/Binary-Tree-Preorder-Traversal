@@ -1,6 +1,6 @@
 # Binary-Tree-Preorder-Traversal
 
-Given the root of a binary tree, return the preorder traversal of its _nodes' values_.
+Given the `root` of a binary tree, return the preorder traversal of its _nodes' values_.
 
  
 
